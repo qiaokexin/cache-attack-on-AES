@@ -15,6 +15,7 @@ method 4
 last_round_all_b.cpp
 
 auxiliary files
-sample_all_lines.cpp is for demonstrate the significance with the sample size with method 3
-sample_plot.gnu is for figure plot of the significance with the sample size
-key_byte.gnu is for figure plot of the significance for each byte during keyrecovery 
+
+sample_all_lines.cpp is for demonstrate the significance with the sample size with method 3.
+sample_plot.gnu is for figure plot of the significance with the sample size.
+key_byte.gnu is for figure plot of the significance for each byte during keyrecovery. 
